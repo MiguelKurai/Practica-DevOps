@@ -1,0 +1,1 @@
+DevOps (Del inglés "development" -desarrollo- y "operations" -operaciones-) es un conjunto de prácticas que agrupan el desarrollo de software ( Dev ) y las operaciones de TI ( Ops ). Su objetivo es hacer más rápido el ciclo de vida del desarrollo de software y proporcionar una entrega continua de alta calidad.
