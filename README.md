@@ -11,3 +11,4 @@
 
 ## **Referencia**
 * [Wikipedia](https://es.wikipedia.org/wiki/DevOps)
+* [ChatGPT](https://chat.openai.com)
