@@ -1,6 +1,6 @@
 # Practica-DevOps
 
-![Devops](/img/)
+![Devops](img/Devops.jpg)
 
 ## **ÍNDICE**
 
