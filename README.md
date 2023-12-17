@@ -1,4 +1,4 @@
-# Practica-DevOps
+# DevOps
 
 ![Devops](img/Devops.jpg)
 
